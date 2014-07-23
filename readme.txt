@@ -1,6 +1,6 @@
 === Bootstrap Panels ===
-Contributors: rameez_iqbal
-Donate link: http://example.com/
+Contributors: Rameez_Iqbal
+Donate link: http://webcodingplace.com/contact-us/
 Tags: bootstrap, panels, widget, theme
 Requires at least: 3.3
 Tested up to: 3.9.1
@@ -13,9 +13,6 @@ This simple plugin adds bootstrap panels widget to non bootstrap sites also.
 == Description ==
 
 This simple plugin adds bootstrap panels widget to non bootstrap sites also. No extra load on site, this is simplest plugin that will not effect your site's performance.
-
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
 
 
 == Installation ==
