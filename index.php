@@ -3,7 +3,7 @@
  * Plugin Name: Bootstrap Panels
  * Plugin URI: http://webcodingplace.com/bootstrap-panels/
  * Description: A simple way to create bootstrap panels in non-bootstrap sites .
- * Version: 1.6
+ * Version: 1.6.1
  * Author: Rameez
  * Author URI: http://webcodingplace.com/
  * License: GPLv2 or later
