@@ -1,7 +1,7 @@
 === Bootstrap Panels ===
 Contributors: Rameez_Iqbal
 Donate link: http://webcodingplace.com/contact-us/
-Tags: bootstrap, panels, widget, theme
+Tags: bootstrap, panels, widget, theme, responsive, easy, simple, sidebar, footer
 Requires at least: 3.3
 Tested up to: 3.9.1
 Stable tag: 1.6.2
