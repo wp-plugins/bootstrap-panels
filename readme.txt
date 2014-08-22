@@ -13,8 +13,17 @@ This simple plugin adds bootstrap panels widget to non bootstrap sites also.
 == Description ==
 
 This simple plugin adds bootstrap panels widget to non bootstrap sites also. No extra load on site, this is simplest plugin that will not effect your site's performance.
-
-<p class="plugin-submit-support"><a href="http://webcodingplace.com/bootstrap-panels/#demo">Demo</a>
+<h3>Features</h3>
+<ul>
+	<li>Responsive</li>
+	<li>Cross-Browser Compatible</li>
+	<li>Supported for non Bootstrap Sites</li>
+	<li>Will not include whole BS CSS Package</li>
+	<li>Easy to use Interface</li>
+	<li>Multiple Themes</li>
+	<li>No Effect on Site's Performance</li>
+</ul>
+<p><a target="_blank" href="http://webcodingplace.com/bootstrap-panels/#demo">See Demo</a>
 </p>
 
 
