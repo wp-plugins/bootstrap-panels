@@ -13,6 +13,10 @@ This simple plugin adds bootstrap panels to non bootstrap sites also.
 == Description ==
 
 This simple plugin adds bootstrap panels to non bootstrap sites also. No extra load on site, this is simplest plugin that will not effect your site's performance.
+
+Just add this shortcode or drag widget
+[bspanel title="Your Heading" type=primary]Here is your Description[/bspanel]
+
 <h3>Features</h3>
 <ul>
 	<li>Responsive</li>
@@ -22,6 +26,7 @@ This simple plugin adds bootstrap panels to non bootstrap sites also. No extra l
 	<li>Easy to use Interface</li>
 	<li>Multiple Themes</li>
 	<li>No Effect on Site's Performance</li>
+	<li>Shortcode Support</li>
 </ul>
 <p><a target="_blank" href="http://webcodingplace.com/bootstrap-panels/#demo">See Demo</a>
 </p>
