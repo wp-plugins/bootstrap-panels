@@ -1,18 +1,18 @@
 === Bootstrap Panels ===
 Contributors: Rameez_Iqbal
 Donate link: http://webcodingplace.com/contact-us/
-Tags: bootstrap, panels, widget, theme, responsive, easy, simple, sidebar, footer
+Tags: bootstrap, panels, widget, theme, responsive, easy, simple, sidebar, footer, shortcode
 Requires at least: 3.3
 Tested up to: 3.9.1
 Stable tag: 1.6.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This simple plugin adds bootstrap panels widget to non bootstrap sites also.
+This simple plugin adds bootstrap panels to non bootstrap sites also.
 
 == Description ==
 
-This simple plugin adds bootstrap panels widget to non bootstrap sites also. No extra load on site, this is simplest plugin that will not effect your site's performance.
+This simple plugin adds bootstrap panels to non bootstrap sites also. No extra load on site, this is simplest plugin that will not effect your site's performance.
 <h3>Features</h3>
 <ul>
 	<li>Responsive</li>
@@ -45,3 +45,10 @@ Yes of course, just drag and drop where you want to show the panels.
 == Screenshots ==
 
 1. Just drag and drop where you want to create panels.
+
+== Upgrade Notice ==
+
+= 1.6.3 =
+<h3>Shortcode Support</h3>
+[bspanel title=Heading type=success]Hello everyone[/bspanel]
+types: success, primary, warning, info, danger...
