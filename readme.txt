@@ -13,15 +13,29 @@ This simple plugin adds bootstrap panels to non bootstrap sites also.
 == Description ==
 
 This simple plugin adds bootstrap panels to non bootstrap sites also. No extra load on site, this is simplest plugin that will not effect your site's performance.
+
+<h3>Shortcodes</h3>
+<ul>
+	<li>Default: [bspanel title="Panel title"]Here is your description[/bspanel]</li>
+	<li>Blue: [bspanel title="Panel title" type=primary]Here is your description[/bspanel]</li>
+	<li>Light Green: [bspanel title="Panel title" type=success]Here is your description[/bspanel]</li>
+	<li>Light Gold: [bspanel title="Panel title" type=warning]Here is your description[/bspanel]</li>
+	<li>Light Blue: [bspanel title="Panel title" type=info]Here is your description[/bspanel]</li>
+	<li>Light Pink: [bspanel title="Panel title" type=danger]Here is your description[/bspanel]</li>
+</ul>
+
+
 <h3>Features</h3>
 <ul>
 	<li>Responsive</li>
+	<li>Widget Support</li>
 	<li>Cross-Browser Compatible</li>
 	<li>Supported for non Bootstrap Sites</li>
 	<li>Will not include whole BS CSS Package</li>
 	<li>Easy to use Interface</li>
 	<li>Multiple Themes</li>
 	<li>No Effect on Site's Performance</li>
+	<li>Shortcode Support</li>
 </ul>
 <p><a target="_blank" href="http://webcodingplace.com/bootstrap-panels/#demo">See Demo</a>
 </p>
@@ -46,9 +60,16 @@ Yes of course, just drag and drop where you want to show the panels.
 
 1. Just drag and drop where you want to create panels.
 
+== Changelog ==
+
+= 1.6.2 =
+* Widget with select menu to choose panel type.
+
+= 1.6.3 =
+* Shortcode Support added.
+
 == Upgrade Notice ==
 
 = 1.6.3 =
-<h3>Shortcode Support</h3>
-[bspanel title=Heading type=success]Hello everyone[/bspanel]
-types: success, primary, warning, info, danger...
+Shortcode Support added.
+
