@@ -3,7 +3,7 @@ Contributors: Rameez_Iqbal
 Donate link: http://webcodingplace.com/contact-us/
 Tags: bootstrap, panels, widget, theme, responsive, easy, simple, sidebar, footer, shortcode
 Requires at least: 3.3
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 1.6.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
